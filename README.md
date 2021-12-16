@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @karunakar
-- 👀 I’m interested in water and disaster management related science
-- 🌱 I’m currently learning about life
-- 💞️ I’m looking to collaborate on water programming
+- 👀 I’m interested in data science and sustainable utilisation of resources
+- 🌱 I’m currently learning about life and correlating my activities to targeted ads
+- 💞️ I’m looking to collaborate on water programming and data visualisation
+- Many of my repos i've contributed to are in public domain, if not please make a request to the repo manager.
 - 📫 How to reach me -> try linkedin.com/in/Karunakarkintada
 
 <!---
